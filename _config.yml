@@ -1,7 +1,7 @@
-name: ps4repair
+name: Playstations Repair
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.66076
+layout_spectrum: 0.74188
+typography_spectrum: 0.57533
 title: Playstationg 4 - PS4 Repair
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3133961108978838
-  lightness: 0.6406724995467812
-  saturation: 0.06447342806495726
-  rhythmicContrast: 0.20941676758229733
+    - '#000000'
+    - '#052d73'
+    - '#00abe1'
+    - '#ffffff'
+    - '#a6d7f5'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
