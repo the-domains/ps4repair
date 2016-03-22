@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Playstationg 4 - PS4 Repair]]></title>
-        <description><![CDATA[Playstationg 4 - PS4 Repair]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Playstation 4 - PS4 Repair]]></title>
+        <description><![CDATA[Playstation 4 - PS4 Repair]]></description>
+        <link>http://playstations.repair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:20:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 22:31:44 GMT</lastBuildDate>
+        <atom:link href="http://playstations.repair/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://playstations.repair/ba4a9d00-9110-4108-92b6-bceccbf60457/index.html</link>
+            <guid isPermaLink="false">ba4a9d00-9110-4108-92b6-bceccbf60457</guid>
+            <pubDate>Tue, 22 Mar 2016 22:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>So, a little back story. About one month ago I noticed little green dots appear on my screen. I tried 4+ different TVs and 4+ different HDMI cables. Eventually for some reason I found a setup that worked and dots went away.</p>]]></description>
-            <link>undefinedde1df4ca-d6d1-47e6-bffe-fd9e4220426e/index.html</link>
+            <link>http://playstations.repair/de1df4ca-d6d1-47e6-bffe-fd9e4220426e/index.html</link>
             <guid isPermaLink="false">de1df4ca-d6d1-47e6-bffe-fd9e4220426e</guid>
             <pubDate>Tue, 22 Mar 2016 22:20:14 GMT</pubDate>
         </item>
