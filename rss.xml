@@ -4,20 +4,21 @@
         <description><![CDATA[Playstation 4 - PS4 Repair]]></description>
         <link>http://playstations.repair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 22:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 22:32:09 GMT</lastBuildDate>
         <atom:link href="http://playstations.repair/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>So basically I have two playstation 4's that are both broken.</p>]]></description>
             <link>http://playstations.repair/ba4a9d00-9110-4108-92b6-bceccbf60457/index.html</link>
             <guid isPermaLink="false">ba4a9d00-9110-4108-92b6-bceccbf60457</guid>
             <pubDate>Tue, 22 Mar 2016 22:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>So, a little back story. About one month ago I noticed little green dots appear on my screen. I tried 4+ different TVs and 4+ different HDMI cables. Eventually for some reason I found a setup that worked and dots went away.</p>]]></description>
+            <title><![CDATA[PS4 HDMI Issue]]></title>
+            <description><![CDATA[<article><h1>PS4 HDMI Issue</h1><p>So, a little back story. About one month ago I noticed little green dots appear on my screen. I tried 4+ different TVs and 4+ different HDMI cables. Eventually for some reason I found a setup that worked and dots went away. This weekend and the dots are back, this time 1080p resolution is completely green and the screen breaks up every few seconds. 1080i and 720p were fine, but now they've even started flickering too.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb29b5b-d7c7-4b73-aa5e-559171053a0c.jpg"></article>]]></description>
             <link>http://playstations.repair/de1df4ca-d6d1-47e6-bffe-fd9e4220426e/index.html</link>
             <guid isPermaLink="false">de1df4ca-d6d1-47e6-bffe-fd9e4220426e</guid>
-            <pubDate>Tue, 22 Mar 2016 22:20:14 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 22:32:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
