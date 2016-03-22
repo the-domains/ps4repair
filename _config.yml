@@ -1,6 +1,6 @@
 name: Playstations Repair
 favicon: null
-layout_spectrum: 0.74188
+layout_spectrum: 0.57942
 typography_spectrum: 0.57533
 title: Playstation 4 - PS4 Repair
 cta:
@@ -24,6 +24,6 @@ color:
     - '#a6d7f5'
   brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.3125
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
