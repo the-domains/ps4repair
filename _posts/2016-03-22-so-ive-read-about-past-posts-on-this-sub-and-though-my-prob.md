@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So I've read about past posts on this sub and though my problem is similar, it's still different than the others."
-datePublished: '2016-03-23T21:27:57.855Z'
-dateModified: '2016-03-23T21:27:38.559Z'
+datePublished: '2016-03-23T21:28:22.808Z'
+dateModified: '2016-03-23T21:28:06.882Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-so-ive-read-about-past-posts-on-this-sub-and-though-my-prob.md
