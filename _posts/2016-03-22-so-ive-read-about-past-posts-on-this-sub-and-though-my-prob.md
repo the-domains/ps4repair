@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "So I've read about past posts on this sub and though my problem is similar, it's still different than the others."
-datePublished: '2016-03-22T22:31:41.541Z'
-dateModified: '2016-03-22T22:31:34.113Z'
+datePublished: '2016-03-23T21:22:42.000Z'
+dateModified: '2016-03-23T21:22:34.351Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-so-ive-read-about-past-posts-on-this-sub-and-though-my-prob.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-so-ive-read-about-past-posts-on-this-sub-and-though-my-prob.md
-published: true
 url: so-ive-read-about-past-posts-on-this-sub-and-though-my-prob/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6f9297-2564-49b6-a33e-0d9b7597d370.jpg)
